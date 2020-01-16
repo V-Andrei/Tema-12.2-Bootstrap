@@ -26,6 +26,8 @@ div, h1, h3, h4, h5, h6, header, footer, body, section, nav, article, aside {
 body {
     font: 14px normal Arial;
     color: white;
+    background: rgb(249,145,255);
+    background: linear-gradient(180deg, rgba(249,145,255,1) 0%, rgba(178,10,255,1) 29%, rgba(190,0,255,1) 100%);
 }
 
     body header {
@@ -142,7 +144,7 @@ body {
     body section {
         width: 75%;
         float: left;
-        color: black;
+        color: white;
     }
 
         body section article {
